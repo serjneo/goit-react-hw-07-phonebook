@@ -19,6 +19,7 @@
     "redux": "^4.1.2",
     "redux-persist": "^6.0.0",
     "shortid": "^2.2.16",
+    "toast": "^0.3.47",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
